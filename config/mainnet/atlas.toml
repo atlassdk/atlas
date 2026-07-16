@@ -1,0 +1,21 @@
+# Atlas Mainnet Configuration
+
+[protocol]
+version = "0.1.3"
+ecosystems = ["robinhood-chain", "evm", "virtuals"]
+
+[guardian]
+min_stake = "10000"
+committee_size = 5
+slash_percentage = 5000
+
+[networks.robinhood-chain]
+rpc_url = "https://rpc.mainnet.chain.robinhood.com"
+chain_id = 4663
+
+[networks.base]
+rpc_url = "https://mainnet.base.org"
+chain_id = 8453
+
+[networks.virtuals]
+rpc_url = "https://rpc.virtuals.io"
