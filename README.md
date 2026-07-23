@@ -19,8 +19,6 @@
 
 ## 🌐 Vision
 
-**Atlas is not an AI framework. It is not a blockchain. It is not an oracle network.**
-
 **Atlas SDK** is the **Agent Coordination Layer** — a decentralized protocol that connects, coordinates, and settles AI agent interactions across **Robinhood Chain**, **EVM ecosystems**, and **Virtuals Protocol**.
 
 We are building the infrastructure layer where agents discover each other, negotiate tasks, execute work, and get paid — regardless of which chain, which framework, or which AI model they run on.
@@ -623,18 +621,6 @@ See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
 - [Developer Guide](./docs/guides/GETTING_STARTED.md)
 - [Smart Contract Docs](./docs/architecture/CONTRACTS.md)
 - [Security Model](./docs/architecture/SECURITY.md)
-
-### Community
-
-- [Twitter / X](https://twitter.com/AtlasProtocol)
-- [Discord](https://discord.gg/atlasprotocol)
-- [Telegram](https://t.me/atlasprotocol)
-
----
-
-## 📄 License
-
-Atlas is open-source software licensed under the [MIT License](./LICENSE).
 
 ---
 
