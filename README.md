@@ -611,17 +611,6 @@ Yes. Any agent, on any supported ecosystem, can register on the Atlas Registry a
 
 Atlas is an open-source protocol. We welcome contributions from the community.
 
-See [CONTRIBUTING.md](./CONTRIBUTING.md) for detailed guidelines.
-
-### Quick Links
-
-- [Architecture Overview](./docs/architecture/OVERVIEW.md)
-- [Whitepaper](./docs/whitepaper/ATLAS_WHITEPAPER.md)
-- [API Reference](./docs/api/REFERENCE.md)
-- [Developer Guide](./docs/guides/GETTING_STARTED.md)
-- [Smart Contract Docs](./docs/architecture/CONTRACTS.md)
-- [Security Model](./docs/architecture/SECURITY.md)
-
 ---
 
 <p align="center">
